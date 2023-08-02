@@ -33,3 +33,37 @@ As I always tried to do in my game engines;
 And that's it. 
 Code On!
 
+Here's the best examples of things I coded along the years:
+
+
+https://github.com/rafaelvasco/SpriteVortex
+
+https://github.com/rafaelvasco/SpriteMator
+
+https://github.com/rafaelvasco/BooEngine
+
+https://github.com/rafaelvasco/PRANA
+
+https://github.com/rafaelvasco/BLIT64
+
+https://github.com/rafaelvasco/BLITZZ
+
+https://github.com/rafaelvasco/OMEGA
+
+https://github.com/rafaelvasco/ReactTable
+
+https://github.com/rafaelvasco/ROMZOOM
+
+https://github.com/rafaelvasco/FocusEdge
+
+https://github.com/rafaelvasco/SpinnerWarsIO
+
+https://github.com/rafaelvasco/SpinnerWarsIOMS
+
+https://github.com/rafaelvasco/VortexEngine
+
+https://github.com/rafaelvasco/PicoSystemJS
+
+https://github.com/rafaelvasco/SharpGL
+
+https://github.com/rafaelvasco/SharpGlfw
