@@ -14,6 +14,8 @@ Programming for me started when I once created a Snake game by directly programm
 Then I learned how to use the tools that were available at the time to make games: SDL and OpenGL;
 With that I started coding my game engines; Always reading code on Github to see how people used Platform handling libraries such as SDL, GLFW, SFML etc, and Graphic Apis such as OpenGL;
 
+I studied/used all the cool guys: SDL2, GLFW, SFML, Love2D, MonoGame, Godot, and several other obscure ones. 
+
 Along the years I coded several game engines; Always learning with them; The new engine was always better than the last; And so on; 
 I coded some desktop applications too. All game/gamedev related. Mainly with C# and one with Python with PyQt. 
 
