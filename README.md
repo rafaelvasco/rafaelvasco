@@ -24,6 +24,8 @@ One of those apps, SpriteMator got published in a C# Game Development book. I wa
 I'm always coding game engines and of course I'm coding one now. In the end they're almost the same code; Just different names and always getting better each time as I get better and better at organizing code and optimizing things;
 I only worked with gamedev professionally one time, developing casino games for a local company. That was mildly fun. Coding my own game engines is much much better;
 
+These days I still code my game engines from the ground up, mostly using SDL2 for platform and BGFX for graphics. They're the best there is today to do things at a lower level. I'm getting my feet wet on audio programming now, that I neglected for so long.
+
 Parallel to that I'm a senior software engineer coding Web Apps and Web APIs for clients around the world; Used a lot of Java back in the day; Nowadays I mostly use JS based thingies, React, Express, Node, etc; 
 I developed several different kinds of Web things along the years as well. Always with my Game Developer spirit. Trying to make things as cool and flashy and optimized and clean as possible. And if there's no Frontend stuff. I at least like to organize my code as tidy as possible;
 As I always tried to do in my game engines;
