@@ -1,4 +1,4 @@
-# rafaelvasco (:alien: :metal:)
+# Rafael Vasco
 
 [![rafaelvasco's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelvasco&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
